@@ -1,2 +1,2 @@
-# Jnr_data_science
-By Tshegofatso Tshipi
+# Jnr_data_science post
+Code for the Jnr data science post : pairs selection
